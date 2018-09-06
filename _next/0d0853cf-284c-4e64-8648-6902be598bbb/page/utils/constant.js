@@ -1,1 +1,0 @@
-module.exports=__NEXT_REGISTER_PAGE("/utils/constant",function(){return{page:webpackJsonp([6],{138:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});t.default={PROFILE_IMAGE_URL:"/static/profile_image.jpg"}},526:function(e,t,n){e.exports=n(138)}},[526]).default}});
